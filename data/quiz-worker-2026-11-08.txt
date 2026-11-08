@@ -67,3 +67,6 @@ A: Jessica Smith - Entertainment: Television
 Auto Quiz - Pizza 🧠
 Q: Deuterium is an isotope of which element?
 A: Hydrogen - Science & Nature
+Auto Quiz - Burger 🧠
+Q: Which of the following is a class in the game "Hearthstone"?
+A: Priest - Entertainment: Video Games
