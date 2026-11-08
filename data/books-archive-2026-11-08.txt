@@ -52,3 +52,4 @@ Chocolate - isbn_9781433336218 - Make It Chocolate
 Chocolate - isbn_9780613683241 - Chocolate By Hershey: A story About Milton S. Hershey
 Fruit - bwb_T3-BSD-639 - so good with fruit
 Fruit - antagonisticacti0003ygut - Antagonistic Action Of Bacillus Subtilis Against Citrus Fruit Pathogens
+Vegetable - bwb_Y0-BWA-507 - america's best vegetable recipes, 666 ways to make vegetables irresistible
