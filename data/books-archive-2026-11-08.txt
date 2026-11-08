@@ -31,3 +31,4 @@ Forest - bwb_KV-423-367 - The drunken forest
 Desert - bwb_KU-559-291 - The Gobi Desert
 Desert - bwb_Y0-AAZ-065 - The life of the desert
 Snow - bwb_W9-CRW-103 - On snow and rock
+Snow - bobbseytwinsatsn0000laur_o7j0 - The Bobbsey Twins at Snow LOdge
